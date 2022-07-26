@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/page-transition/static/css/main.713af3e9.css",
+    "main.js": "/page-transition/static/js/main.a906e052.js",
+    "index.html": "/page-transition/index.html",
+    "main.713af3e9.css.map": "/page-transition/static/css/main.713af3e9.css.map",
+    "main.a906e052.js.map": "/page-transition/static/js/main.a906e052.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.713af3e9.css",
+    "static/js/main.a906e052.js"
+  ]
+}
