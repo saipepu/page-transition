@@ -1,0 +1,27 @@
+.navbar_container {
+  width: 100%;
+  padding: 20px 56px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #000;
+}
+.logo_container {
+  flex: 1;
+}
+.logo_container p {
+  font: 600 28px Inter, sans-serif;
+}
+.navlinks_container {
+  list-style: none;
+  width: fit-content;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.navitems {
+  margin-right: 20px;
+  font: 400 20px Inter, sans-serif;
+}

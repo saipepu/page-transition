@@ -1,4 +1,5 @@
 import React from 'react';
+import './style.css'
 
 const Navbar = () => {
   const navItems = ['about', 'contact', 'projects']
@@ -11,7 +12,7 @@ const Navbar = () => {
       </div>
       <ul className="navlinks_container">
         {navItems.map((item, index) => (
-          <li className="navitems">
+          <li className="navitems" key={index}>
             {item}
           </li>
         ))}
