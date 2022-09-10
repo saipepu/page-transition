@@ -29,6 +29,7 @@
 .banner_title {
   font: 400 96px Lora, sans-serif;
   line-height: 105%;
+  letter-spacing: -2px;
   margin-bottom: -12px;
   white-space: nowrap;
 }
@@ -56,6 +57,7 @@ a:hover {
   width: 200px;
   left: 110%;
   display: grid;
+  z-index: 10;
 }
 .circular-arrow-container img{
   margin: auto
