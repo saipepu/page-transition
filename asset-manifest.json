@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/page-transition/static/css/main.48ba84a5.css",
-    "main.js": "/page-transition/static/js/main.0cdf5f3d.js",
+    "main.css": "/page-transition/static/css/main.4f340792.css",
+    "main.js": "/page-transition/static/js/main.a00c3782.js",
     "static/media/multiple_img_intro.png": "/page-transition/static/media/multiple_img_intro.7cdf65cabc9c0ddf72f1.png",
     "static/media/JUST_DO_IT.png": "/page-transition/static/media/JUST_DO_IT.ae73118ea7117d39d079.png",
     "static/media/multiple_img_overlapping.png": "/page-transition/static/media/multiple_img_overlapping.c42b0b0d1b589daf7a86.png",
     "static/media/scatter_text.png": "/page-transition/static/media/scatter_text.7d0d9c34da59033768bb.png",
     "static/media/project_section_hovering.png": "/page-transition/static/media/project_section_hovering.21adffeec72648176e07.png",
     "index.html": "/page-transition/index.html",
-    "main.48ba84a5.css.map": "/page-transition/static/css/main.48ba84a5.css.map",
-    "main.0cdf5f3d.js.map": "/page-transition/static/js/main.0cdf5f3d.js.map"
+    "main.4f340792.css.map": "/page-transition/static/css/main.4f340792.css.map",
+    "main.a00c3782.js.map": "/page-transition/static/js/main.a00c3782.js.map"
   },
   "entrypoints": [
-    "static/css/main.48ba84a5.css",
-    "static/js/main.0cdf5f3d.js"
+    "static/css/main.4f340792.css",
+    "static/js/main.a00c3782.js"
   ]
 }
