@@ -30,6 +30,7 @@ const Banner = () => {
         </div>
       </div>
       <div className="circular-arrow-container">
+        <div className="indicater">Scroll</div>
         <div className="circular-text" id="circular-text">RECREATION BY PEPU</div>
         <img src={arrow} alt="arrow_vector" />
       </div>

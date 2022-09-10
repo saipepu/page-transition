@@ -24,7 +24,7 @@
 .banner_title_container {
   width: 100%;
   height: fit-content;
-  padding: 0px 20px 135px 20px;
+  padding: 0px 20px 95px 20px;
 }
 .banner_title {
   font: 400 96px Lora, sans-serif;
@@ -58,9 +58,32 @@ a:hover {
   left: 110%;
   display: grid;
   z-index: 10;
+  user-select: none;
+}
+.circular-arrow-container .indicater {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font: lighter 56px Lora;
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out;
 }
 .circular-arrow-container img{
-  margin: auto
+  margin: auto;
+  transition: opacity 0.2s ease-in-out;
+}
+.circular-arrow-container:hover img{
+  opacity: 0.2;
+  transition: opacity 0.2s ease-in-out;
+}
+.circular-arrow-container:hover .indicater {
+  opacity: 1;
+  transition: opacity 0.2s ease-in-out;
+}
+.circular-arrow-container:hover .circular-text {
+  opacity: 0.2;
+  transition: opacity 0.2s ease-in-out;
 }
 .circular-text {
   position: absolute;
@@ -73,6 +96,7 @@ a:hover {
   transition-timing-function: ease-out;
   width: 200px;
   height: 220px;
+  transition: opacity 0.2s ease-in-out;
   /* background: red; */
 }
 .circular-text span{
