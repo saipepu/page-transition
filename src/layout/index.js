@@ -11,6 +11,10 @@ const Layout = ({children}) => {
       <div className="layout_body">
         {children}
       </div>
+      <div className="mobile_screen">
+        Please view on desktop for better experience.
+        Thank you.
+      </div>
     </div>
     </>
   )
