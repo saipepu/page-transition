@@ -32,12 +32,12 @@ const Folio_Container = () => {
       image: img3
     },
     {
-      url: '',
+      url: 'https://saipepu.github.io/image_reveal_on_hover/',
       name: 'Project Section Hovering',
       image: img4
     },
     {
-      url: '',
+      url: 'https://saipepu.github.io/scatter_the_title/',
       name: 'Scatter Text',
       image: img5
     }
